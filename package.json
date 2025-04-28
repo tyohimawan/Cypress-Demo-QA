@@ -1,0 +1,24 @@
+{
+  "name": "cypress-demo-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyohimawan/Cypress-Demo-QA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyohimawan/Cypress-Demo-QA/issues"
+  },
+  "homepage": "https://github.com/tyohimawan/Cypress-Demo-QA#readme",
+  "dependencies": {
+    "cypress": "^14.3.2",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
