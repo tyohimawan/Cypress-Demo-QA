@@ -23,3 +23,17 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+Cypress.Commands.add('forceClick', {prevSubject: 'element'}, (subject, options) => {
+    cy.wrap(subject).click({force: true})
+  });
+
+Cypress.Commands.add('isVisible', {
+    prevSubject: true
+  }, (subject) => {
+    const isVisible = (elem) => !!(
+      elem.offsetWidth ||
+      elem.offsetHeight ||
+      elem.getClientRects().length
+    )
+    expect(isVisible(subject[0])).to.be.true
+  })
