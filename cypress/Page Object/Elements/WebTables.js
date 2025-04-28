@@ -1,4 +1,4 @@
-class Karyawan
+class WebTables
 {
     selectors = {
         btnAdd: "//button[@id='addNewRecordButton']",
@@ -48,4 +48,4 @@ class Karyawan
     }
 }
 
-export default Karyawan;
+export default WebTables;
