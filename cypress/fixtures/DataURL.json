@@ -1,0 +1,29 @@
+[
+    {
+        "Scheme": "Upload and Download",
+        "baseUrl": "https://demoqa.com",
+        "endpoint": "/upload-file",
+        "fileName": "sampleFile.txt"
+    },
+
+    {
+        "Scheme": "Text Box",
+        "baseUrl": "https://demoqa.com",
+        "endpoint": "/text-box",
+        "fileName": ""
+    },
+
+    {
+        "Scheme": "Web Tables",
+        "baseUrl": "https://demoqa.com",
+        "endpoint": "/webtables",
+        "fileName": ""
+    },
+    
+    {
+        "Scheme": "Practice Form",
+        "baseUrl": "https://demoqa.com",
+        "endpoint": "/automation-practice-form",
+        "fileName": ""
+    }
+]
