@@ -1,0 +1,82 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@example.com",
+    "age": "28",
+    "salary": "50000",
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "janesmith@example.com",
+    "age": "32",
+    "salary": "60000",
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alicejohnson@example.com",
+    "age": "25",
+    "salary": "55000",
+    "department": "Sales"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Brown",
+    "email": "bobbrown@example.com",
+    "age": "45",
+    "salary": "70000",
+    "department": "Finance"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Davis",
+    "email": "charliedavis@example.com",
+    "age": "29",
+    "salary": "48000",
+    "department": "HR"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Evans",
+    "email": "dianaevans@example.com",
+    "age": "34",
+    "salary": "62000",
+    "department": "IT"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Harris",
+    "email": "ethanharris@example.com",
+    "age": "40",
+    "salary": "75000",
+    "department": "Operations"
+  },
+  {
+    "firstName": "Fiona",
+    "lastName": "Green",
+    "email": "fionagreen@example.com",
+    "age": "27",
+    "salary": "53000",
+    "department": "Support"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Hill",
+    "email": "georgehill@example.com",
+    "age": "31",
+    "salary": "58000",
+    "department": "Legal"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Lee",
+    "email": "hannahlee@example.com",
+    "age": "26",
+    "salary": "49000",
+    "department": "Admin"
+  }
+]

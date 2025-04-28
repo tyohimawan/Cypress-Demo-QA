@@ -1,0 +1,62 @@
+[
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "currentAddress": "123 Main St, Springfield",
+      "permanentAddress": "456 Elm St, Springfield"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "currentAddress": "789 Oak St, Metropolis",
+      "permanentAddress": "101 Pine St, Metropolis"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "currentAddress": "234 Maple St, Gotham",
+      "permanentAddress": "567 Birch St, Gotham"
+    },
+    {
+      "name": "Bob Brown",
+      "email": "bobbrown@example.com",
+      "currentAddress": "890 Cedar St, Star City",
+      "permanentAddress": "123 Willow St, Star City"
+    },
+    {
+      "name": "Charlie Davis",
+      "email": "charliedavis@example.com",
+      "currentAddress": "345 Aspen St, Central City",
+      "permanentAddress": "678 Poplar St, Central City"
+    },
+    {
+      "name": "Diana Evans",
+      "email": "dianaevans@example.com",
+      "currentAddress": "456 Redwood St, Coast City",
+      "permanentAddress": "789 Cypress St, Coast City"
+    },
+    {
+      "name": "Ethan Harris",
+      "email": "ethanharris@example.com",
+      "currentAddress": "567 Spruce St, Keystone City",
+      "permanentAddress": "890 Fir St, Keystone City"
+    },
+    {
+      "name": "Fiona Green",
+      "email": "fionagreen@example.com",
+      "currentAddress": "678 Palm St, Smallville",
+      "permanentAddress": "123 Magnolia St, Smallville"
+    },
+    {
+      "name": "George Hill",
+      "email": "georgehill@example.com",
+      "currentAddress": "789 Sycamore St, Riverdale",
+      "permanentAddress": "456 Dogwood St, Riverdale"
+    },
+    {
+      "name": "Hannah Lee",
+      "email": "hannahlee@example.com",
+      "currentAddress": "890 Cherry St, Hill Valley",
+      "permanentAddress": "567 Peach St, Hill Valley"
+    }
+  ]
