@@ -4,13 +4,10 @@ import testData from '../../fixtures/DataWebTables.json'; // Import the test dat
 
 const webTables = new WebTables();
 
-// Ambil nama skema dari sini supaya dynamic
 const schemeName = "Web Tables";
 
-// Cari object yang Scheme-nya sesuai
 const pageData = dataURL.find(item => item.Scheme === schemeName);
 
-// Optional: kalau tidak ketemu, error
 if (!pageData) {
   throw new Error(`Page data for "${schemeName}" not found in DataURL.json`);
 }

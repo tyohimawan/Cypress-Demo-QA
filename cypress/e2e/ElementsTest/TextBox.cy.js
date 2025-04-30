@@ -5,13 +5,10 @@ import { describe } from 'mocha';
 
 const textBox = new TextBox();
 
-// Ambil nama skema dari sini supaya dynamic
 const schemeName = "Text Box";
 
-// Cari object yang Scheme-nya sesuai
 const pageData = dataURL.find(item => item.Scheme === schemeName);
 
-// Optional: kalau tidak ketemu, error
 if (!pageData) {
   throw new Error(`Page data for "${schemeName}" not found in DataURL.json`);
 }
